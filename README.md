@@ -1,4 +1,4 @@
-# DjangoRestAPI
+# Django Rest API
 Django Rest API implementation using the built-in libraries
 
 This is an implementation for Django Rest API
