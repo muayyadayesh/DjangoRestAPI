@@ -9,3 +9,5 @@ This implementation includes:
 * GET
 * PATCH Update
 * Delete
+
+![image](https://user-images.githubusercontent.com/31501126/132991754-c60f7aab-76a6-4016-ae9b-7f197cb88900.png)
